@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<drjava version="drjava-20130901-r5756">
+  <project autorefresh="false" main="LRCompanion.java" manifest="" root="" work="">
+    <createjar file="LiveReportCompanion.jar" flags="12"/>
+    <source>
+      <file active="true" name="Player.java" package="" timestamp="26-Sep-2013 22:30:21">
+        <select from="3997" to="3997"/>
+        <scroll column="2832" row="0"/>
+      </file>
+      <file name="LROutput.java" package="" timestamp="22-Sep-2013 00:45:32">
+        <select from="3997" to="3997"/>
+        <scroll column="2832" row="0"/>
+      </file>
+      <file name="FormatDialog.java" package="" timestamp="22-Sep-2013 19:25:48">
+        <select from="3997" to="3997"/>
+        <scroll column="2832" row="0"/>
+      </file>
+      <file name="DateDialog.java" package="" timestamp="22-Sep-2013 19:25:48">
+        <select from="3997" to="3997"/>
+        <scroll column="2832" row="0"/>
+      </file>
+      <file name="LPParser.java" package="" timestamp="26-Sep-2013 21:54:00">
+        <select from="3997" to="3997"/>
+        <scroll column="2832" row="0"/>
+      </file>
+      <file name="Match.java" package="" timestamp="26-Sep-2013 22:04:18">
+        <select from="3997" to="3997"/>
+        <scroll column="2832" row="0"/>
+      </file>
+      <file name="MatchDialog.java" package="" timestamp="26-Sep-2013 22:19:53">
+        <select from="3997" to="3997"/>
+        <scroll column="2832" row="0"/>
+      </file>
+      <file name="LRCompanion.java" package="" timestamp="26-Sep-2013 22:19:53">
+        <select from="3997" to="3997"/>
+        <scroll column="2832" row="0"/>
+      </file>
+      <file name="InfoDialog.java" package="" timestamp="26-Sep-2013 22:19:53">
+        <select from="3997" to="3997"/>
+        <scroll column="2832" row="0"/>
+      </file>
+      <file name="LREvent.java" package="" timestamp="26-Sep-2013 22:27:32">
+        <select from="3997" to="3997"/>
+        <scroll column="2832" row="0"/>
+      </file>
+    </source>
+    <included/>
+    <excluded/>
+    <collapsed/>
+    <classpath/>
+    <breakpoints/>
+    <watches/>
+    <bookmarks/>
+    <preferences/>
+  </project>
+</drjava>
